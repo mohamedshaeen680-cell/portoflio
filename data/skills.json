@@ -1,0 +1,18 @@
+[
+  { "id": "skill-1", "name": "Excel", "category": "Data Analysis", "level": 90, "order": 0 },
+  { "id": "skill-2", "name": "SQL", "category": "Data Analysis", "level": 92, "order": 1 },
+  { "id": "skill-3", "name": "Python", "category": "Data Analysis", "level": 88, "order": 2 },
+  { "id": "skill-4", "name": "Pandas", "category": "Data Analysis", "level": 85, "order": 3 },
+  { "id": "skill-5", "name": "Statistics", "category": "Data Analysis", "level": 80, "order": 4 },
+  { "id": "skill-6", "name": "Power BI", "category": "Business Intelligence", "level": 90, "order": 0 },
+  { "id": "skill-7", "name": "Tableau", "category": "Business Intelligence", "level": 82, "order": 1 },
+  { "id": "skill-8", "name": "Dashboard Development", "category": "Business Intelligence", "level": 86, "order": 2 },
+  { "id": "skill-9", "name": "Data Visualization", "category": "Business Intelligence", "level": 87, "order": 3 },
+  { "id": "skill-10", "name": "Python", "category": "Programming", "level": 88, "order": 0 },
+  { "id": "skill-11", "name": "Java", "category": "Programming", "level": 70, "order": 1 },
+  { "id": "skill-12", "name": "C++", "category": "Programming", "level": 68, "order": 2 },
+  { "id": "skill-13", "name": "Git", "category": "Tools", "level": 84, "order": 0 },
+  { "id": "skill-14", "name": "Jupyter", "category": "Tools", "level": 83, "order": 1 },
+  { "id": "skill-15", "name": "VS Code", "category": "Tools", "level": 90, "order": 2 },
+  { "id": "skill-16", "name": "MySQL", "category": "Tools", "level": 76, "order": 3 }
+]
